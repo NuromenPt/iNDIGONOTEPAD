@@ -16,3 +16,8 @@ You may redistribute copies — modified or unmodified — as long as you keep t
 If you modify the software and use it on a private or public server, you must make your modified source code available under the same license.
 
 Pocket Programmer OR nuromen — All copyleft rights.
+
+<img src="Screenshot_20260105_223810_Chromium.png" width="180">. 
+<img src="Screenshot_20260105_223820_Chromium.png" width="180">. 
+<img src="Screenshot_20260105_223855_Chromium.png" width="180">. 
+<img src="Screenshot_20260105_223937_Chromium.png" width="180">. 
