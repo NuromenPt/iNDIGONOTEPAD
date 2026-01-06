@@ -21,3 +21,5 @@ Pocket Programmer OR nuromen — All copyleft rights.
 <img src="Screenshot_20260105_223820_Chromium.png" width="180">. 
 <img src="Screenshot_20260105_223855_Chromium.png" width="180">. 
 <img src="Screenshot_20260105_223937_Chromium.png" width="180">. 
+
+[!/¡]
